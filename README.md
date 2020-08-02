@@ -40,7 +40,7 @@
 
 ## Files in the repository
 
-_THE_ _SCRIPTS_ _WERE_ _RUN_ _THROUGH_ _THE_ _CONSOLE_, _WITH_ _THE_ _COMMAND_: !python name_file.py
+**_THE_ _SCRIPTS_ _WERE_ _RUN_ _THROUGH_ _THE_ _CONSOLE_, _WITH_ _THE_ _COMMAND_: !python name_file.py**
 
 1. **sql_queries.py:** 
 This Python file contains all the CREATE TABLE statements to create the fact and dimension tables, as well as the INSER statements that are used during the loading process. These statements are imported and used in the files below.
