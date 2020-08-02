@@ -12,27 +12,27 @@
 1. songs: song_id, title, artist_id, year, duration
    It contains the list of songs, where the name appears, the id of the artist who sings the song, in which year it was created and its duration.
    
-    ![Image](data/songs.png)
+    ![Table Songs](https://github.com/Javiera93/udacity/blob/master/songs.png)
 
 2. artists: artist_id, name, location, latitude, longitude
    Contains all the artist data, such as name, location, among others.
    
-    ![Image](data/artists.png)
+    ![Table Artists](https://github.com/Javiera93/udacity/blob/master/artists.png)
 
 3. users: user_id, first_name, last_name, gender, level
    Contains user records of songs.
    
-    ![Image](data/users.png)
+    ![Table Users](https://github.com/Javiera93/udacity/blob/master/users.png)
 
 4. time: start_time, hour, day, week, month, year, weekday
    Contains timestamps of songs.
 
-    ![Image](data/time.png)
+    ![Table Time](https://github.com/Javiera93/udacity/blob/master/time.png)
    
 5. songsplay: songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
    Table that is made up of what is important, such as the song id, the artist id, the time, the user agent, among others. The important thing about        this   table is that the songplay_id is built by default taking a serial format.
    
-    ![Image](data/songplays.png)
+    ![Table SongsPlay](https://github.com/Javiera93/udacity/blob/master/songplays.png)
 
 **- SCRIPTS EXECUTION**
 
